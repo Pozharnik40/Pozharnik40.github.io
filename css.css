@@ -1,0 +1,8 @@
+.block {
+    display: inline-block;
+    border: 1px solid;
+    margin: 2px;
+  }
+  .wrapper {
+    display: flex;
+  }
